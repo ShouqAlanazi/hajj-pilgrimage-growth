@@ -2,7 +2,7 @@
 
 An analysis of how the number of Hajj pilgrims has changed from 1970 to 2025, and what drove the major shifts — infrastructure investment, transportation changes, and the COVID-19 pandemic.
 
-**[View the interactive chart](./hajj_chart.html)** (download and open in your browser)
+**[View the live interactive chart](https://shouqalanazi.github.io/hajj-pilgrimage-growth/hajj_chart.html)**
 
 ## The Question
 
